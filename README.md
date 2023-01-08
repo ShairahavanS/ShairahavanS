@@ -15,18 +15,29 @@
 
 My Favourite Teams
 
-        [<img alt="Leafs" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Toronto_Maple_Leafs_2016_logo.svg/1200px-Toronto_Maple_Leafs_2016_logo.svg.png"/>](https://www.nhl.com/mapleleafs) 
-
 Toronto Maple Leafs
 
+- Fan since: 2007
+- Favourite Player: Auston Matthews
+- Favourite Moment: Game 5 Auston Matthew Game-Winning Goal
          
 
 Toronto Raptors
 
-         
+- Fan since: 2008
+- Favourite Player: Pascal Siakam
+- Favourite Moment: The Kawhi Shot 
 
 Kansas City Chiefs
 
-         
+- Fan since: 2018 (yeah I know I'm a bandwagoner)
+- Favourite Player: Patrick Mahomes
+- Favourite Moment: 24-0 Comeback in AFC Divisional
 
 Toronto Blue Jays
+
+- Fan since: 2007
+- Favourite Player: Bo Bichette
+- Favourite Moment: Bautista Bat Flip
+
+
