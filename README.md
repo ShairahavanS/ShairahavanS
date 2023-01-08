@@ -15,7 +15,7 @@
 
 My Favourite Teams
 
-         
+        [<img alt="Leafs" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Toronto_Maple_Leafs_2016_logo.svg/1200px-Toronto_Maple_Leafs_2016_logo.svg.png"/>](https://www.nhl.com/mapleleafs) 
 
 Toronto Maple Leafs
 
