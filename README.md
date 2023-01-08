@@ -1,16 +1,15 @@
 ### Hi, I'm Shairahavan 👋
 
-<!--
-**ShairahavanS/ShairahavanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚 Electrical Engineering student at the University of Waterloo
+- 😄 Pronouns: he/him
+- 🔊 Pronunciation: share-uh-ha-ven
+- 🔭 I’m currently working on a basketball projection system
+- 💬 Interests: Hockey, backetball, football, baseball, basically any sport 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 How to reach me:
+
+Email
+LinkedIn
+
