@@ -1,0 +1,91 @@
+
+
+  bool enter = false;
+
+  for ( Transaction *p_node_first {get_p_head()} ; p_node_first != nullptr; p_node_first = p_node_first->get_next()) {
+    Transaction *p_node_second{p_node_first->get_next()};
+    
+    if (p_node_second != nullptr) {
+      bool condition = (*p_node_first < *p_node_second);
+      std::cout << (*p_node_first < *p_node_second) << "\n";
+
+      if (condition == false) {
+        enter = true;
+      }
+    }
+  }
+
+  if (enter == true) {
+    
+    std::cout << "sure\n";
+
+
+    while (enter == true) {
+      enter = false;
+      bool evaluate = false;
+      bool inserted = false;
+
+      Transaction *p_previous{p_head};
+      Transaction *p_node{p_previous->get_next()};
+      std::cout << p_head << " " << get_p_head() << " " << p_node << "\n";
+      Transaction *p_after{p_node->get_next()};
+      Transaction *p_tmp{nullptr};
+
+      // remove
+
+      bool removed = false;
+
+      while ((p_after != nullptr) && (removed == false)) {
+
+        if ((*p_node < *p_after) == false){
+          p_tmp = p_node;
+          p_previous->set_next(p_after); 
+          evaluate = true;        
+          std::cout << "ed sheeran\n";
+          removed = true;
+        } else {
+          p_previous = p_previous->get_next();
+          p_node = p_node->get_next();
+          p_after = p_after->get_next();
+        }
+      }
+
+      // insert
+
+      if (evaluate == true) {
+        Transaction *p_node2{p_head};
+        Transaction *p_after2{p_node2->get_next()};
+
+        while ((p_after2 != nullptr) && (inserted == false)) {
+          if ((*p_tmp < *p_node2) && (inserted == false) ) {
+          
+            p_tmp->set_next(p_after2);
+            p_node2->set_next(p_tmp);
+            
+            inserted = true;
+
+            std::cout << "auston matthews\n";
+          } else {
+            p_node2 = p_node2->get_next();
+            p_after2 = p_after2->get_next();
+          }
+        }
+      }
+
+      // check
+      
+      for ( Transaction *p_node_first {get_p_head()} ; p_node_first != nullptr; p_node_first = p_node_first->get_next()) {
+
+        Transaction *p_node_second{p_node_first->get_next()};
+        
+        if (p_node_second != nullptr) {
+          bool condition = (*p_node_first < *p_node_second);
+
+          if (condition == false) {
+            enter = true;
+          }
+        } 
+      } 
+    }
+  }
+}
