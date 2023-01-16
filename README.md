@@ -1,4 +1,4 @@
-### Hi, I'm Shairahavan 👋
+# Hi, I'm Shairahavan 👋
 
 
 - 📚 Electrical Engineering student at the University of Waterloo
