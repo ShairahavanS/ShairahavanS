@@ -5,6 +5,7 @@
 - 😄 Pronouns: he/him
 - 🔊 Pronunciation: share-uh-ha-ven
 - 🔭 I’m currently working on a basketball projection system
+- 💼 Dream Career: Sports Front Office Executive
 - 💬 Interests: Hockey, basketball, football, baseball, basically any sport 
 - 📫 How to reach me: 
 
