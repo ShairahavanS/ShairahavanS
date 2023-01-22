@@ -37,4 +37,4 @@
 <img src="https://media3.giphy.com/media/dbUmJJ2bqZjSDQpsYx/giphy.gif?cid=ecf05e47f2u98ocntc0jqi4lv8a72ms92xsb8my5xuata7si&rid=giphy.gif&ct=g" height="115" width="205" align="right">
    - Fan since: 2007
    - Favourite Player: Auston Matthews
-   - Favourite Moment: Game 5 Auston Matthew Game-Winning Goal
+   - Favourite Moment: Game 5 Auston Matthews Game-Winning Goal
