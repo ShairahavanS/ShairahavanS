@@ -1,9 +1,8 @@
-# Hi, I'm Shairahavan 👋
+# Hi, I'm Travis 👋
 
 
 - 📚 Electrical Engineering student at the University of Waterloo
 - 😄 Pronouns: he/him
-- 🔊 Pronunciation: share-uh-ha-ven
 - 🔭 I’m currently working on a basketball projection system
 - 💼 Dream Career: Sports Front Office Executive
 - 💬 Interests: Hockey, basketball, football, baseball, basically any sport 
@@ -22,7 +21,7 @@
 <img src="https://media3.giphy.com/media/dbUmJJ2bqZjSDQpsYx/giphy.gif?cid=ecf05e47f2u98ocntc0jqi4lv8a72ms92xsb8my5xuata7si&rid=giphy.gif&ct=g" height="115" width="205" align="right">
    - Fan since: 2007
    - Favourite Player: Auston Matthews
-   - Favourite Moment: Game 5 Auston Matthews Game-Winning Goal
+   - Favourite Moment: 2022 Game 5 Auston Matthews Game-Winning Goal
 
    **Toronto Blue Jays** <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Toronto_Blue_Jay_Primary_Logo.svg/1200px-Toronto_Blue_Jay_Primary_Logo.svg.png" height="20"> <img src="https://media0.giphy.com/media/l2SpUepuM4qgdzbeU/giphy.gif" height="115" width="205" align="right">
    - Fan since: 2007
